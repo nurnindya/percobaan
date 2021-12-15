@@ -18,7 +18,7 @@ function allnumeric(inputtxt)
       return false;
       }
    }
-</script>
+
 
 </body>
 </html>
